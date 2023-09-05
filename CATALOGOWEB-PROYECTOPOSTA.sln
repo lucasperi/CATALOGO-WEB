@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CATALOGOWEB-PROYECTOPOSTA", "CATALOGOWEB-PROYECTOPOSTA\CATALOGOWEB-PROYECTOPOSTA.csproj", "{AFEDE933-EB95-4779-AECB-61C7720C678B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEDE933-EB95-4779-AECB-61C7720C678B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFEDE933-EB95-4779-AECB-61C7720C678B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFEDE933-EB95-4779-AECB-61C7720C678B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFEDE933-EB95-4779-AECB-61C7720C678B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {806D05E6-9CC1-4DFA-A8E2-1F2B5F34EFF7}
+	EndGlobalSection
+EndGlobal
